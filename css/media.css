@@ -3,6 +3,9 @@
     header{
         padding: 10px 0 ;
     }
+    body{
+        padding-top: 89px;
+     }
     .menu ul li a{
         font-size: 20px;
         padding: 0 0 !important;
@@ -202,10 +205,12 @@ footer{
  /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) {
     /* menu start */
+  
     .menu ul li a{
         padding: 0 0  !important;
         text-align: right;
     } 
+    
 .c_padding{
     padding-top: 80px;
     padding-bottom: 100px;
